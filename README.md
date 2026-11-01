@@ -9,5 +9,5 @@ I'm studying **Computer Science at UC Irvine**.
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,git,nodejs,js,mongodb,postgres,pnpm,prisma,tailwind,ts,vercel&theme=light)
+![My Skills](https://skillicons.dev/icons?i=python,react,git,nodejs,js,mongodb,postgres,pnpm,prisma,tailwind,ts,vercel&theme=light)
 
